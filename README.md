@@ -1,7 +1,7 @@
 # 3D reconstruction
 
 ```sh
-Modifed from https://github.com/alyssaq/3Dreconstruction
+Modified from https://github.com/alyssaq/3Dreconstruction
 ```
 
 3D reconstruction from 2D images pipeline
